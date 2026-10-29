@@ -1,3 +1,4 @@
+# dlw-tugas-ra-124400060
 # Studi Ablasi RNN, LSTM, GRU vs ANN untuk Prediksi Trafik Seluler Milan
 
 Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
